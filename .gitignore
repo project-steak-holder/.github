@@ -1,0 +1,56 @@
+# macOS system files
+.DS_Store
+
+# IDE/project files
+.idea/
+*.iml
+
+# Python cache (if any)
+__pycache__/
+*.pyc
+
+# OS/Editor swap files
+*.swp
+*.swo
+
+# VSCode settings (if used)
+.vscode/
+
+# Node/npm artifacts (if ever used)
+node_modules/
+
+# Ignore media output (optional, remove if you want to track these)
+*.mov
+*.avi
+*.mkv
+
+
+# Ignore build/output folders (if any)
+dist/
+build/
+
+# Ignore logs
+*.log
+
+# Ignore coverage reports
+coverage/
+*.cover
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore test output
+*.test-results
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore by default any file you don't want to track
+# Add more patterns as needed for your workflow
+
