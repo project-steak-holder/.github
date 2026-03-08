@@ -67,8 +67,10 @@ All development artifacts are stored in [`.github/documents/`](../documents/)
 
 ### Presentation
 
-- [MVP Presentation Slides](../documents/presentation/MVP-Presentation-Slides.pptx)
-- [Demo Video](../documents/presentation/Demo-Video.mp4)
+- **[Demo Video (YouTube)](https://youtu.be/tqVBQGkK1ok)**  
+  [Download raw video](../documents/presentation/Demo-Video.mp4)
+- **[MVP Presentation Slides (OneDrive)](https://onedrive.live.com/:p:/g/personal/53d4595d293c25f9/IQDIJKPRcdMBT6J52jlKCcUmAVIhwiv7KAmG7Oq8StHGcW0?rtime=U6eL9Ad73kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy81M2Q0NTk1ZDI5M2MyNWY5L0lRRElKS1BSY2RNQlQ2SjUyamxLQ2NVbUFWSWh3aXY3S0FtRzdPcThTdEhHY1cw)**  
+  [Download raw slides](../documents/presentation/MVP-Presentation-Slides.pptx)
 
 
 ## Notes
