@@ -37,38 +37,38 @@ Use this section to link all repositories in the organization.
 
 ## Development Documents
 
-All development artifacts are stored in [`.github/documents/`](documents/)
+All development artifacts are stored in [`.github/documents/`](../documents/)
 
 ### Core Documents
 
-- [Requirements](documents/Requirements.pdf)
-- [Detailed Design](documents/Detailed-Design.pdf)
-- [Quality Assurance Report](documents/Quality-Assurance-Report.pdf)
+- [Requirements](../documents/Requirements.pdf)
+- [Detailed Design](../documents/Detailed-Design.pdf)
+- [Quality Assurance Report](../documents/Quality-Assurance-Report.pdf)
 
 ### Project
 
-- [Project Proposal](documents/project/Project-Proposal.pdf)
-- [Team Charter](documents/project/Team-Charter.pdf)
+- [Project Proposal](../documents/project/Project-Proposal.pdf)
+- [Team Charter](../documents/project/Team-Charter.pdf)
 
 ### Architecture
 
-- [Architecture Document](documents/architecture/Architecture-Doc.pdf)
-- [Architecture Decision Record](documents/architecture/Architecture-Decision-Record.pdf)
+- [Architecture Document](../documents/architecture/Architecture-Doc.pdf)
+- [Architecture Decision Record](../documents/architecture/Architecture-Decision-Record.pdf)
 - Diagrams:
-  - [Context](documents/architecture/diagrams/Context.png)
-  - [Container](documents/architecture/diagrams/Container.png)
-  - [Component 1](documents/architecture/diagrams/Component-1.png)
-  - [Component 2](documents/architecture/diagrams/Component-2.png)
+  - [Context](../documents/architecture/diagrams/Context.png)
+  - [Container](../documents/architecture/diagrams/Container.png)
+  - [Component 1](../documents/architecture/diagrams/Component-1.png)
+  - [Component 2](../documents/architecture/diagrams/Component-2.png)
 
 ### Implementation
 
-- [Implementation Report 1](documents/implementation/Implementation-Report-1.pdf)
-- [Implementation Report 2](documents/implementation/Implementation-Report-2.pdf)
+- [Implementation Report 1](../documents/implementation/Implementation-Report-1.pdf)
+- [Implementation Report 2](../documents/implementation/Implementation-Report-2.pdf)
 
 ### Presentation
 
-- [MVP Presentation Slides](documents/presentation/MVP-Presentation-Slides.pptx)
-- [Demo Video](documents/presentation/Demo-Video.mp4)
+- [MVP Presentation Slides](../documents/presentation/MVP-Presentation-Slides.pptx)
+- [Demo Video](../documents/presentation/Demo-Video.mp4)
 
 
 ## Notes
